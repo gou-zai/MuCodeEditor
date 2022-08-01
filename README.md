@@ -71,7 +71,7 @@ Css 高亮
 增加 CursorFlickerEffect 实现光标闪烁
 
 # 部分思路来源于 Rosemoe's Editor
-https:// rosemoe.github.io/2020/02/15/highlight-editor-creation/
+https://rosemoe.github.io/2020/02/15/highlight-editor-creation/
 
 ## 以下是使用截图
 
